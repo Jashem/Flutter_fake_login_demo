@@ -5,5 +5,5 @@ A new Flutter project to demonstrate fake login, my account and push notificatio
 ## Getting Started
 
 To use the app login with below credentials:  
-**Email:** test@test.com .
-**password:** password .
+**Email:** test@test.com  
+**password:** password  
